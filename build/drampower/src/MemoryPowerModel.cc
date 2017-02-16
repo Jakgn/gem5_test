@@ -1,0 +1,1 @@
+/home/oslab/gem5/gem5/ext/drampower/src/MemoryPowerModel.cc

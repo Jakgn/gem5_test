@@ -1,0 +1,1 @@
+/home/oslab/gem5/gem5/src/mem/snoop_filter.hh
